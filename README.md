@@ -1,10 +1,10 @@
-# Content Ops Starter
+# Hr Creative Tech
 
 ![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
 
 Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
-**⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
+**⚡ View demo:** [https://hrcreativetech.shop/](https://hrcreativetechshop.netlify.app/)
 
 ## Table of Contents
 
